@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript, and Python
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on personal projects during my learning journey.
-- 📫 How to reach me on telegram or whatsapp number 0813520005, or crema.zitha@gmail.com
+- 📫 You may reach me on telegram or whatsapp number 0813520005, or crema.zitha@gmail.com
 
 <!---
 ShikwambanaDev/ShikwambanaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
